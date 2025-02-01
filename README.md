@@ -24,7 +24,7 @@ This is a simple **HTML & CSS** frontend registration form. The form is designed
 
 ## Screenshots
 
-<img src="assets/Screenshot.png" alt="Registration form" width="850" height="450">
+<img src="assets/Screenshot.png" alt="Registration form" width="850" height="500">
 
 ## Contribution
 
