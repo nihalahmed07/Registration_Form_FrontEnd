@@ -101,3 +101,30 @@ button {
 button:hover {
     background: #b132b1c9;
 }
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .left-side {
+        order: -1;
+        padding: 10px;
+    }
+
+    .right-side {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .btn {
+        flex-direction: column;
+    }
+
+    button {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
